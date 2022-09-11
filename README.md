@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @XavierMora03
-- 👀 I’m interested in C++/Python and machine learning. 
-- 🌱 I’m currently learning OOP, algorithms and data structures.
+- 👀 I’m interested in C++/Python and web devmeloment. 
+- 🌱 I’m currently learning algorithms and data structures.
 - 💞️ I’m looking to collaborate on any proyect you think I can help. 
 - 📫 How to reach me: send me a message here on git hub.
 
