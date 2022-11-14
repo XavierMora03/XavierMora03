@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Diego Mora (@XavierMora03)
-- 😉 an Informatics Enginnering Student from Jalisco, Mexico:)
+- 😉 an Informatics Enginnering Student from Jalisco, México :)
 - 👀 I’m interested in C++/Python and web devmeloment. 
 - 🌱 I’m currently learning algorithms and data structures.
 - 💞️ I’m looking to collaborate on any proyect you think I can help. 
